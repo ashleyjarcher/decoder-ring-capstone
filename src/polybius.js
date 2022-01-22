@@ -3,7 +3,7 @@
 // Only add code (helper methods, variables, etc.) within the scope
 // of the anonymous function on line 6
 
-cconst polybiusModule = (function () {
+const polybiusModule = (function () {
   const encodedLetters = {
     a: 11,
     b: 21,
